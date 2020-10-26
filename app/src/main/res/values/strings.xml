@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="visit">Visit</string>
+    <string name="eat">Eat</string>
+    <string name="shop">Shop</string>
+    <string name="stay">Stay</string>
+    <string name="pateeshwarar_kovil">Pateeshwarar Kovil</string>
+    <string name="perur">Perur</string>
+    <string name="waterfalls">Water Falls</string>
+    <string name="siruvani_waterfalls">Siruvani</string>
+    <string name="murugan_temple">Hill Murugan Temple</string>
+    <string name="marudhamalai">Marudhamalai</string>
+    <string name="shiva_statue">Adiyogi Shiva Statue</string>
+    <string name="isha_yoga">Isha Yoga, Velliangiri</string>
+    <string name="aaliyardam">Aaliyar Dam</string>
+    <string name="anaimalai">Anamalai</string>
+
+
+    <string name="annapoorna">Shree Annapoorna Gowrishankar</string>
+    <string name="many_branches">Many Branches across the City</string>
+    <string name="junior_Kupanna">Junior Kupanna</string>
+    <string name="gandhi_puram">GandhiPuram</string>
+    <string name="annalakshmi">Annalakshmi Restaurant</string>
+    <string name="race_course">Race Course</string>
+    <string name="aanandhas">Shree Aanandhas</string>
+    <string name="sitra">SITRA</string>
+    <string name="subbu_mess">Sree Subbu Mess</string>
+
+
+    <string name="crosscut_road">Cross Cut Road</string>
+    <string name="oppanakaara_st">Oppanakara Street</string>
+    <string name="raja_st">Raja Street</string>
+    <string name="brook_field">BrookFeild Mall</string>
+    <string name="poompuhar">Poompuhar</string>
+    <string name="street_shopping">Street / Flee Market</string>
+    <string name="showroom">Showrooms</string>
+    <string name="handicrafts">Handicrafts</string>
+
+
+    <string name="taj">Vivanta By Taj</string>
+    <string name="residency">The Residency Towers</string>
+    <string name="lemon_tree">Lemon Tree </string>
+    <string name="marriott">Fairfeild By Marriott</string>
+    <string name="jenneys">Jenneys Residency</string>
+    <string name="city_centre">City Centre</string>
+    <string name="closer_to_airport">Closer to the Airport</string>
+
+
+</resources>
